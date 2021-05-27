@@ -1,0 +1,23 @@
+/*
+    用户修改
+*/
+.container .updateCustomerForm div {
+    width: 600px;
+    margin-left: 350px;
+    line-height: 50px;
+}
+
+.container .updateCustomerForm div input[type=text], input[type=password] {
+    width: 160px;
+}
+
+.container .updateCustomerForm div span {
+    color: red;
+    margin-left: 50px;
+    font-size: 10px;
+}
+
+.button {
+    position: relative;
+    left: -60px;
+}
